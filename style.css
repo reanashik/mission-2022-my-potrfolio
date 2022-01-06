@@ -10,7 +10,7 @@ h2{
 .red-color{
     color:red;
 }
-section{
+.flexible-container{
     display: flex;
     margin-top: 100px;
     margin-bottom: 100px;
@@ -30,4 +30,13 @@ section{
     color: white;
     font-weight:700;
     border-radius: 5px;
-}   
+}  
+footer p{
+    text-align: center;
+} 
+footer h3{
+    text-align: center;
+}
+.my-mission h1{
+    text-align: center;
+}
