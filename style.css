@@ -12,6 +12,7 @@ h2{
 }
 section{
     display: flex;
+    margin-top: 100px;
     margin-bottom: 100px;
 }
 .half-width{
@@ -29,4 +30,4 @@ section{
     color: white;
     font-weight:700;
     border-radius: 5px;
-}     
+}   
